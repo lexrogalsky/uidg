@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#5D5D5D" points="4.4,11.198 10,20 15.6,11.198 		"/>
+	</g>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="3.059" y="0.059" width="13.882" height="13.881">
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="3.059" y="0.059" width="13.882" height="13.881" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<circle cx="10" cy="7.001" r="3.967"/>
+	</g>
+</mask>
+<circle mask="url(#SVGID_1_)" fill="#5D5D5D" cx="10" cy="6.999" r="6.941"/>
+</svg>
